@@ -1,15 +1,11 @@
 # cluster-api
 
-This is the default template README for [Headlamp Plugins](https://github.com/kubernetes-sigs/headlamp).
+The Headlamp plugin for Cluster API adds a "Cluster API" item to Headlamp's sidebar and displays CAPI resources such as clusters, machines, and machine deployments on the Map.
 
-- The description of your plugin should go here.
-- You should also edit the package.json file meta data (like name and description).
+## Installation
 
-## Developing Headlamp plugins
+Coming soon!
 
-For more information on developing Headlamp plugins, please refer to:
+## More information about Cluster API
 
-- [Getting Started](https://headlamp.dev/docs/latest/development/plugins/), How to create a new Headlamp plugin.
-- [API Reference](https://headlamp.dev/docs/latest/development/api/), API documentation for what you can do
-- [UI Component Storybook](https://headlamp.dev/docs/latest/development/frontend/#storybook), pre-existing components you can use when creating your plugin.
-- [Plugin Examples](https://github.com/kubernetes-sigs/headlamp/tree/main/plugins/examples), Example plugins you can look at to see how it's done.
+For more information about Cluster API, see the [Cluster API Book](https://cluster-api.sigs.k8s.io/).
